@@ -1,0 +1,9 @@
+There are unexpected errors in the browser console!
+SEVERE https://cdn.ad.plus/player/adplus.js 402:154 Uncaught TypeError: l(...).setup is not a function
+SEVERE https://cdn.ad.plus/player/adplus.js 402:154 Uncaught TypeError: l(...).setup is not a function
+WARNING https://cdn.ampproject.org/rtv/012211060024000/v0/amp-ad-exit-0.1.js 1 Unrecognized feature: 'attribution-reporting'.
+WARNING https://cdn.ampproject.org/rtv/012211060024000/v0/amp-ad-exit-0.1.js 1 Unrecognized feature: 'attribution-reporting'.
+SEVERE https://cdn.ad.plus/player/adplus.js 402:154 Uncaught TypeError: l(...).setup is not a function
+WARNING https://cdn.ampproject.org/rtv/012211060024000/v0/amp-ad-exit-0.1.js 1 Unrecognized feature: 'attribution-reporting'.
+WARNING https://cdn.ampproject.org/rtv/012211060024000/v0/amp-ad-exit-0.1.js 1 Unrecognized feature: 'attribution-reporting'.
+WARNING https://cdn.ampproject.org/rtv/012211060024000/v0/amp-ad-exit-0.1.js 1 Unrecognized feature: 'attribution-reporting'.
