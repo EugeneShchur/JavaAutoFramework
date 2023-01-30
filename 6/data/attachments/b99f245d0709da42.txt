@@ -1,0 +1,34 @@
+There are unexpected errors in the browser console!
+SEVERE https://cdn.ad.plus/player/adplus.js 402:154 Uncaught TypeError: l(...).setup is not a function
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+SEVERE https://demoqa.com/login - Access to XMLHttpRequest at 'https://api.rlcdn.com/api/identity/envelope?pid=13781' from origin 'https://demoqa.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+SEVERE https://api.rlcdn.com/api/identity/envelope?pid=13781 - Failed to load resource: net::ERR_FAILED
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+SEVERE https://cdn.ad.plus/player/adplus.js 402:154 Uncaught TypeError: l(...).setup is not a function
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+SEVERE https://cdn.ad.plus/player/adplus.js 402:154 Uncaught TypeError: l(...).setup is not a function
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING https://imasdk.googleapis.com/js/sdkloader/ima3.js 479 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
+WARNING about:srcdoc - An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can remove its sandboxing.
