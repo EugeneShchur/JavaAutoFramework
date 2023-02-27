@@ -1,0 +1,4 @@
+There are unexpected errors in the browser console!
+SEVERE https://cdn.ad.plus/player/adplus.js 401:504 Uncaught TypeError: g(...).setup is not a function
+SEVERE https://cdn.ad.plus/player/adplus.js 401:504 Uncaught TypeError: g(...).setup is not a function
+SEVERE https://cdn.ad.plus/player/adplus.js 401:504 Uncaught TypeError: g(...).setup is not a function
