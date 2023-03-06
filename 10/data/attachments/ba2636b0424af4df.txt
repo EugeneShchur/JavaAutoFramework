@@ -1,7 +1,0 @@
-There are unexpected errors in the browser console!
-SEVERE https://cdn.ad.plus/player/adplus.js 401:504 Uncaught TypeError: g(...).setup is not a function
-SEVERE https://demoqa.com/login - Refused to execute script from 'https://ads.betweendigital.com/match?bidder_id=43092&gdpr=&consent=&callback_url=https%3A%2F%2Fx.bidswitch.net%2Fsync%3Fdsp_id%3D429%26user_id%3D%24%7BUSER_ID%7D%26ssp%3Drevcontent%26expires%3D30%26user_group%3D%24%7BUSER_GROUP%7D%26gdpr%3D%26gdpr_consent%3D&crf=1' because its MIME type ('image/png') is not executable.
-SEVERE https://demoqa.com/login - Access to XMLHttpRequest at 'https://api.rlcdn.com/api/identity/envelope?pid=13781' from origin 'https://demoqa.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
-SEVERE https://api.rlcdn.com/api/identity/envelope?pid=13781 - Failed to load resource: net::ERR_FAILED
-SEVERE https://cdn.ad.plus/player/adplus.js 401:504 Uncaught TypeError: g(...).setup is not a function
-SEVERE https://cdn.ad.plus/player/adplus.js 401:504 Uncaught TypeError: g(...).setup is not a function
