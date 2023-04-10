@@ -15,11 +15,11 @@
         <maven.surefire.version>3.0.0-M6</maven.surefire.version>
         <aspectj.version>1.9.19</aspectj.version>
         <atlas.webdriver.version>1.8.0</atlas.webdriver.version>
-        <selenium.java.version>4.7.1</selenium.java.version>
+        <selenium.java.version>4.8.3</selenium.java.version>
         <testng.version>7.5</testng.version>
         <allure.testng.version>2.20.0</allure.testng.version>
         <allure.maven.version>2.10.0</allure.maven.version>
-        <webdrivermanager.version>5.3.1</webdrivermanager.version>
+        <webdrivermanager.version>5.3.2</webdrivermanager.version>
         <rest.assured.version>4.4.0</rest.assured.version>
         <lombok.version>1.18.24</lombok.version>
         <jackson.core.version>2.14.0</jackson.core.version>
