@@ -1,0 +1,4 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Books Store","Anyone can view available books in the Book Store","0","0","2","0","0"
+"","Books Store","API - User can manage books in his collection","0","0","1","0","0"
+"","Books Store","User can manage books in his collection and see them on Profile","0","0","1","0","0"
