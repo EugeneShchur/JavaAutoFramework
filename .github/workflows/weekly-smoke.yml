@@ -19,11 +19,11 @@ jobs:
       with:
         ref: master
         
-    - name: Set up JDK 1.8
+    - name: Set up JDK
       uses: actions/setup-java@v3
       with:
         distribution: 'zulu'
-        java-version: '8'
+        java-version: '17'
         
     - name: Build with Maven
       env:
