@@ -1,0 +1,13 @@
+There are unexpected errors in the browser console!
+SEVERE https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308080102/pubads_impl.js?cb=31076940 9:269734 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308080102/pubads_impl.js?cb=31076940 9:269734 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308080102/pubads_impl.js?cb=31076940 9:269734 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308080102/pubads_impl.js?cb=31076940 9:269734 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+SEVERE https://cdn-ima.33across.com/ob.js 1:40874 "33Across Lexicon ID Mappings Provider: PID not found"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202308080102/pubads_impl.js?cb=31076940 9:269734 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead."
+SEVERE https://id.geistm.com/m/OB/84pBw2UjfhoHzAr-FfdGMc1dzaU6-g5Y9aZJ5dXGV37-W9njj4KNswI6axMPKYly - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+SEVERE https://sync.crwdcntrl.net/map/c=14516/tp=OBRN/tpid=84pBw2UjfhoHzAr-FfdGMc1dzaU6-g5Y9aZJ5dXGV37-W9njj4KNswI6axMPKYly - Failed to load resource: the server responded with a status of 403 ()
+SEVERE https://sync.outbrain.com/cookie-sync?p=pulsepoint&uid=yo908x0CIG2B&obUid=84pBw2UjfhoHzAr-FfdGMc1dzaU6-g5Y9aZJ5dXGV37-W9njj4KNswI6axMPKYly&gdpr=0&gdpr_consent=&us_privacy=1---&initiator=ob&ev=1&us_privacy=${us_privacy}&pid=562709 - Failed to load resource: the server responded with a status of 400 (Bad Request)
+SEVERE https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
+SEVERE https://cdn.ad.plus/player/adplus.js 412:423 Uncaught TypeError: c(...).setup is not a function
