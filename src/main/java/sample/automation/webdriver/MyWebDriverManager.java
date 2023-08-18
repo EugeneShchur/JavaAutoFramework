@@ -95,16 +95,12 @@ public class MyWebDriverManager {
   }
 
   private WebDriver createWebDriver() {
-    switch (browserType) {
-      case FIREFOX:
-        return new FirefoxDriver(getFirefoxOptions());
-      case EDGE:
-        return new EdgeDriver(getEdgeOptions());
-      case SAFARI:
-        return new SafariDriver(getSafariOptions());
-      default:
-        return new ChromeDriver(getChromeOptions());
-    }
+    return switch (browserType) {
+      case FIREFOX -> new FirefoxDriver(getFirefoxOptions());
+      case EDGE -> new EdgeDriver(getEdgeOptions());
+      case SAFARI -> new SafariDriver(getSafariOptions());
+      default -> new ChromeDriver(getChromeOptions());
+    };
   }
 
   private void setWindowSize() {
@@ -115,16 +111,12 @@ public class MyWebDriverManager {
   }
 
   private Capabilities getDriverOptions() {
-    switch (browserType) {
-      case FIREFOX:
-        return getFirefoxOptions();
-      case EDGE:
-        return getEdgeOptions();
-      case SAFARI:
-        return getSafariOptions();
-      default:
-        return getChromeOptions();
-    }
+    return switch (browserType) {
+      case FIREFOX -> getFirefoxOptions();
+      case EDGE -> getEdgeOptions();
+      case SAFARI -> getSafariOptions();
+      default -> getChromeOptions();
+    };
   }
 
   private ChromeOptions getChromeOptions() {
@@ -146,7 +138,9 @@ public class MyWebDriverManager {
         "profile.password_manager_enabled", false
     ));
     options.setExperimentalOption("excludeSwitches", singletonList("enable-automation"));
-    options.setHeadless(isRunOnGitHub || props.isHeadless());
+    if (isRunOnGitHub || props.isHeadless()) {
+      options.addArguments("--headless=new");
+    }
     // also may need addArguments("--disable-extensions");
   }
 
@@ -164,7 +158,9 @@ public class MyWebDriverManager {
       setProfile(profile);
       setLogLevel(FirefoxDriverLogLevel.ERROR);
       setUnhandledPromptBehaviour(UnexpectedAlertBehaviour.DISMISS_AND_NOTIFY);
-      setHeadless(isRunOnGitHub || props.isHeadless());
+      if (isRunOnGitHub || props.isHeadless()) {
+        addArguments("--headless=new");
+      }
     }};
   }
 
