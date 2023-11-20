@@ -39,7 +39,15 @@ jobs:
         gh_pages: gh-pages
         allure_report: target/allure-report
         allure_history: allure-history
-    
+
+    - name: Attach artifact of Allure Report
+      uses: actions/upload-artifact@v3
+      if: always()
+      with:
+        name: allure-report-run-${{ github.run_number }}
+        path: ${{ env.ALLURE_REPORT }}
+        retention-days: 7
+          
     - name: Deploy report to Github Pages
       if: always()
       uses: peaceiris/actions-gh-pages@v2
