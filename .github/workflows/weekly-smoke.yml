@@ -8,6 +8,10 @@ on:
     - cron: '00 6 * * MON'
     
   workflow_dispatch:
+
+env:
+  ALLURE_RESULTS: target/allure-results
+  ALLURE_REPORT: target/allure-report
   
 jobs:
   build:
@@ -35,9 +39,9 @@ jobs:
       if: always()
       id: allure-report
       with:
-        allure_results: target/allure-results
+        allure_results: ${{ env.ALLURE_RESULTS }}
         gh_pages: gh-pages
-        allure_report: target/allure-report
+        allure_report: ${{ env.ALLURE_REPORT }}
         allure_history: allure-history
 
     - name: Attach artifact of Allure Report
