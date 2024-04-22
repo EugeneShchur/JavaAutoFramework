@@ -41,7 +41,6 @@ public class BookStoreSteps extends NavSteps {
   @Step("Book Store page is opened")
   public BookStoreSteps bookStorePageShouldBeOpened() {
     checkRedirectOnPage(getPageUrl(), BOOK_STORE_PAGE_TITLE);
-    bookStorePage.pageShouldHaveTitle(BOOK_STORE_PAGE_TITLE);
     return this;
   }
 
@@ -51,7 +50,6 @@ public class BookStoreSteps extends NavSteps {
                                       getPageUrl(),
                                       isbn),
                         BOOK_STORE_PAGE_TITLE);
-    bookStorePage.pageShouldHaveTitle(BOOK_STORE_PAGE_TITLE);
     return this;
   }
 

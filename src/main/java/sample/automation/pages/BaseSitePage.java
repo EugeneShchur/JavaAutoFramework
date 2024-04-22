@@ -10,7 +10,7 @@ import sample.automation.matchers.IsElementDisplayedMatcher;
 
 public interface BaseSitePage extends WebPage {
 
-  @FindBy("//div[contains(@class, 'main-header')]")
+  @FindBy("//h1")
   HtmlElement pageTitle();
 
   @FindBy("//div[@class='left-pannel']")

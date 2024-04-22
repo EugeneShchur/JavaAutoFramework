@@ -40,7 +40,6 @@ public class ProfileSteps extends NavSteps {
   @Step
   public ProfileSteps profilePageShouldBeOpened() {
     checkRedirectOnPage(getPageUrl(), PROFILE_PAGE_TITLE);
-    profilePage.pageShouldHaveTitle(PROFILE_PAGE_TITLE);
     return this;
   }
 

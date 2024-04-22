@@ -29,7 +29,6 @@ public class LoginSteps extends NavSteps {
   @Step
   public LoginSteps loginPageShouldBeOpened() {
     checkRedirectOnPage(getPageUrl(), LOGIN_PAGE_TITLE);
-    loginPage.pageShouldHaveTitle(LOGIN_PAGE_TITLE);
     signInFormShouldBeDisplayed();
     return this;
   }

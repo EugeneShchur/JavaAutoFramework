@@ -1,8 +1,8 @@
 package sample.automation.testng;
 
 import static io.qameta.allure.util.ResultsUtils.TAG_LABEL_NAME;
-import static sample.automation.utils.DateHelper.formatTimestampIntoFilenameDate;
 import static sample.automation.utils.AllureEnvXmlWriter.saveValuesIntoAllureEnvironmentXml;
+import static sample.automation.utils.DateHelper.formatTimestampIntoFilenameDate;
 import static sample.automation.webdriver.MyWebDriverManager.props;
 
 import java.lang.reflect.Constructor;
