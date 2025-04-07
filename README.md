@@ -22,7 +22,7 @@ make sure you removed all not needed staff and added suitable place where to pub
 
 #### System Requirements:
 
-* JDK 17 or above
+* JDK 17 LTS version (or above, but would need pom.xml file modification)
 * Maven 3.6.3 or above
 * IntelliJ IDEA or any Java IDE
 
