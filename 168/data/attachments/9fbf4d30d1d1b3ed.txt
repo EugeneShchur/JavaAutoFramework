@@ -1,0 +1,64 @@
+There are unexpected errors in the browser console!
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.\nhttps://goo.gle/gpt-message#180"
+WARNING https://www.gstatic.com/recaptcha/releases/7gg7H51Q-naNfhmCP3_R47ho/recaptcha__en.js 524:11 "reCAPTCHA couldn't find user-provided function: onloadCallback"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.\nhttps://goo.gle/gpt-message#180"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Interstitial /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.\nhttps://goo.gle/gpt-message#180"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Interstitial /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://cdn.jsdelivr.net/gh/prebid/shared-id/pubcid.js/docs/pubcid.min.js 0:8 "Google Deploy of the SharedId library has been deprecated. Please select another option in the GAM UI. If you use Prebid, we suggest the Prebid.js UserId option. If you do not, you may configure GAM to allow Google to share a first party user identifier with OB and AB participants, which is either the publisherProvidedId or the __gads value when that is missing."
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.\nhttps://goo.gle/gpt-message#155"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.\nhttps://goo.gle/gpt-message#155"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Using deprecated googletag.encryptedSignalProviders. Please use googletag.secureSignalProviders instead.\nhttps://goo.gle/gpt-message#155"
+SEVERE https://cdn.ad.plus/player/adplus.js 435:46 Uncaught TypeError: c(...).setup is not a function
+SEVERE https://cdn.ad.plus/player/adplus.js 435:46 Uncaught TypeError: c(...).setup is not a function
+WARNING https://www.gstatic.com/recaptcha/releases/7gg7H51Q-naNfhmCP3_R47ho/recaptcha__en.js 524:11 "reCAPTCHA couldn't find user-provided function: onloadCallback"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.\nhttps://goo.gle/gpt-message#180"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Interstitial /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.\nhttps://goo.gle/gpt-message#180"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Interstitial /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.\nhttps://goo.gle/gpt-message#180"
+SEVERE https://demoqa.com/bundle.js 62:82411 ReferenceError: props is not defined
+    at t.value (https://demoqa.com/bundle.js:95:336442)
+    at Li (https://demoqa.com/bundle.js:63:69906)
+    at Fi (https://demoqa.com/bundle.js:63:69701)
+    at vl (https://demoqa.com/bundle.js:63:105445)
+    at us (https://demoqa.com/bundle.js:63:96694)
+    at ls (https://demoqa.com/bundle.js:63:96619)
+    at Zl (https://demoqa.com/bundle.js:63:93700)
+    at https://demoqa.com/bundle.js:63:45362
+    at t.unstable_runWithPriority (https://demoqa.com/bundle.js:71:3844)
+    at Ha (https://demoqa.com/bundle.js:63:45071)
+WARNING https://www.gstatic.com/recaptcha/releases/7gg7H51Q-naNfhmCP3_R47ho/recaptcha__en.js 524:11 "reCAPTCHA couldn't find user-provided function: onloadCallback"
+SEVERE https://cdn.ad.plus/player/adplus.js 435:46 Uncaught TypeError: c(...).setup is not a function
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Interstitial /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Interstitial /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Interstitial /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://cdn.ampproject.org/rtv/012509301838000/amp4ads-v0.js 1:15669 "[amp-analytics/transport] Response unparseable or failed to send image request" "https://securepubads.g.doubleclick.net/btr/view?ai=CepjLk-VIaZvLNbH929sPoa3cgAy_69ewggGcyeXxoxPNnZnCkA4QASDG-9Z5YMme2Ifoo6AVoAGjkqqeKMgBCeACAKgDAcgDCqoEuAJP0POYGYjjG3TG6D_FhBx9F0nuKDwhFS0LZJ8-Cdj32pdDHYLp-j8pTdu_YxCtQ08jGtPsWfUseDiZNXfkKjWm6sY0TTmEO_iP11pu87frF3yrq4KKgYqA4v90UiRUm4QW4YoFQPv_JC8vT4ypxK3NhGoXE1Kd1z9WB-khrpiz_rS6-xVQjUzZosJnaO_hGRXMQaA_dwOKPD0Tn3gUbWS6MFCrwb78hhn79ICCT6s0RnKNRmfgrFeJccP5FsLgfuygRq7Fe2L6madySCkvplDskoyQECZJhvX2CxJmDtpUeseTaqVrEtQ5K-giqt0ZexpK2WcSupq2QcmBeKhjJOKWpnjUQLvE8RLdv_M3XKWogDujpn0toUuMnPvaeh6HqYEWY1bQnXiDwp12p6adwostYQxM1Fd1AqzABNH7q9nwBOAEAYgFiJ7G50-SBQQIBBgBkgUECAUYBKAGLoAHo8r6_QKoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB9XJG6gH2baxAqgH98KxAtgHAPIHBBCxmQfSCC8IgGEQARidATIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOliu8MWIydCRA_IIG2FkeC1zdWJzeW4tMzUyMDYxNzM0MTY2NTU5MpoJZmh0dHBzOi8vd3d3LmJlaGxlaW5jLmNvbS9zZXJ2aWNlcy92aWRlby1zZXdlci1saW5lLWluc3BlY3Rpb25zP2dhZF9zb3VyY2U9NSZnYWRfY2FtcGFpZ25pZD0yMTQyMzU1ODQwOIAKA8gLAdoMEQoLEMCmt9ftq8y3jAESAgEDqg0CVVPiDRMIpqbGiMnQkQMVsf52BR2hFhfA6g0TCMebx4jJ0JEDFbH-dgUdoRYXwIgO____________AbgT5APYEwyIFAHQFQHKFgIKAPgWAYAXAbIXLAocCAASFHB1Yi05ODA3ODIwMzc4NTQ0NjEyGOqqchgBKgo2MTY4NTc2NTA1uhcCOAGqGBcJAAAAABDL_EASCjYxNjg1NzY1MDUYAbIYCRICqlAYLiIBANAYAcIZAggB&sigh=GRx-o0UXsQc&uach_m=%5B%5D&ase=2&nis=4&cid=CAQSoAEAwksa0cV8kUu3m1akcrt3NYG8WoZk3HNNJj0xra7WV4ujOYSS7ZuIsewrNKX5aJnx2eBO_4vE4nCTp8ixOiXiaD4ELSHhXNvBbqZovG01gDIiXo3k2x79zJgqQkrsdaEEv1eL3slmXtAZg3Uf_-DkmvyI-GlRgBilkCwBZ__PVxvvhnk48PofdTZlO4-9oCAvJnXyjYWpbPezVrfduh9wGAE&template_id=484&ibtr=1"
+WARNING https://www.gstatic.com/recaptcha/releases/7gg7H51Q-naNfhmCP3_R47ho/recaptcha__en.js 524:11 "reCAPTCHA couldn't find user-provided function: onloadCallback"
+SEVERE https://cdn.ad.plus/player/adplus.js 435:46 Uncaught TypeError: c(...).setup is not a function
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.\nhttps://goo.gle/gpt-message#180"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.\nhttps://goo.gle/gpt-message#180"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Interstitial /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Interstitial /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.\nhttps://goo.gle/gpt-message#180"
+WARNING https://www.gstatic.com/recaptcha/releases/7gg7H51Q-naNfhmCP3_R47ho/recaptcha__en.js 524:11 "reCAPTCHA couldn't find user-provided function: onloadCallback"
+SEVERE https://cdn.ad.plus/player/adplus.js 435:46 Uncaught TypeError: c(...).setup is not a function
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.\nhttps://goo.gle/gpt-message#180"
+SEVERE https://demoqa.com/bundle.js 62:82411 ReferenceError: props is not defined
+    at t.value (https://demoqa.com/bundle.js:95:336442)
+    at Li (https://demoqa.com/bundle.js:63:69906)
+    at Fi (https://demoqa.com/bundle.js:63:69701)
+    at vl (https://demoqa.com/bundle.js:63:105445)
+    at us (https://demoqa.com/bundle.js:63:96694)
+    at ls (https://demoqa.com/bundle.js:63:96619)
+    at Zl (https://demoqa.com/bundle.js:63:93700)
+    at https://demoqa.com/bundle.js:63:45362
+    at t.unstable_runWithPriority (https://demoqa.com/bundle.js:71:3844)
+    at Ha (https://demoqa.com/bundle.js:63:45071)
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Interstitial /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.\nhttps://goo.gle/gpt-message#180"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Interstitial /21849154601,22343295815/Ad.Plus-300x250 not requested: Format already created on the page.\nhttps://goo.gle/gpt-message#134"
+WARNING https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202512040101/pubads_impl.js 18:450247 "[GPT] Anchor /21849154601,22343295815/Ad.Plus-300x250 not requested: Codeless ad unit request not sent because there are existing sticky elements on the page.\nhttps://goo.gle/gpt-message#180"
