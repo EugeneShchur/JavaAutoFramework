@@ -1,0 +1,2 @@
+There are unexpected errors in the browser console!
+SEVERE https://demoqa.com/login - Failed to load resource: the server responded with a status of 404 (Not Found)
