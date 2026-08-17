@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","10075","User can see all available books in the Book Store","Surefire suite","2026-08-17","broken","2026-08-17","sample.automation.tests.ui.ViewBooksTest","Surefire test","sample.automation.tests.ui.ViewBooksTest","demo_001"
+"","1445","User is able to delete a book from his collection by DELETE /Book api","Surefire suite","2026-08-17","passed","2026-08-17","sample.automation.tests.api.ApiDeleteBooksTest","Surefire test","sample.automation.tests.api.ApiDeleteBooksTest","demo_api_001"
+"","6979","User is able to add a book into his collection from Book Store","Surefire suite","2026-08-17","failed","2026-08-17","sample.automation.tests.ui.AddBookIntoCollectionTest","Surefire test","sample.automation.tests.ui.AddBookIntoCollectionTest","demo_003"
+"","6892","User can open and view book's details in the Book Store","Surefire suite","2026-08-17","failed","2026-08-17","sample.automation.tests.ui.ViewBooksTest","Surefire test","sample.automation.tests.ui.ViewBooksTest","demo_002"
